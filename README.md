@@ -17,12 +17,14 @@ This ANSI will be published as part of an upcoming ACiD tribute artpack by Block
 Full credits: accessdenies, avg, cyonx, Deeply Disturbed, delicious, enzO, filth, H7, misfit, mattmatthew, ober, RaD Man, retribution, ReV, smoke, sonic, spear, The Creep Fever, the text exorcist, ungennant, whazzit, zerovision.
 
 
-
 Additional trivia:
-
 
 - This ANSI was created using a collaborative ANSI editor called PabloDraw. Essentially a chatroom with an interactive ANSI/ASCII canvas that anyone can edit.
 - Two (2) PabloDraw servers were necessary to create this ANSI due to accommodate a current limitation of 2048 lines on the Windows version of PabloDraw.
 - It takes roughly 2 minutes to scroll this ANSI at full speed in PabloDraw. At 722KB, it would take roughly 6 & 1/2 minutes to display at 14,400 bps. (source: calctool.org)
 - Imagine 131 computer monitors stacked on top of each other. If this ANSI were to be broken up into separate 80x25 chunks, the standard resolution during the dialup BBS era, this ANSI would fill 131 CRT displays.
 - 4 different artists came out of long term retirement to contribute to this ANSI, including Sonic, who had not drawn ANSI since a time when TheDraw was the editor of choice.
+
+
+
+Scroler-Video https://www.youtube.com/watch?v=6zpUb3mUExA
