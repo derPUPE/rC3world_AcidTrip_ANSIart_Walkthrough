@@ -71,7 +71,7 @@
         {
          "columns":5,
          "firstgid":1,
-         "image":"assets\/tilesets\/rC3_acid_160pix.png",
+         "image":"rC3_acid_160pix.png",
          "imageheight":13292,
          "imagewidth":160,
          "margin":0,
@@ -84,7 +84,7 @@
         {
          "columns":9,
          "firstgid":2076,
-         "image":"assets\/tilesets\/hidden_layers.png",
+         "image":"hidden_layers.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
